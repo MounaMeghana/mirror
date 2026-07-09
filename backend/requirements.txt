@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+websockets
+google-generativeai
+python-dotenv
+bcrypt
+passlib
+python-jose[cryptography]
+cryptography
+sqlalchemy
+aiosqlite
+email-validator
